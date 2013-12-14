@@ -1,0 +1,18 @@
+#player {
+  font-size: 40px;
+}
+#board {
+  font-size: 200px;
+  text-align: center;
+}
+#container{
+  width: 75%;
+}
+#container td{
+width: 200px;
+height: 200px;
+}
+
+td:hover{
+background-color: grey;
+}
